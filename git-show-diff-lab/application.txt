@@ -1,7 +1,7 @@
+
 APPLICATION: Employee Management
 STATUS: Running
-LOGIN: Enabled
-
+LOGIN: Enable
 ------------------------------
 DATABASE CONFIGURATION
 ------------------------------
@@ -10,4 +10,11 @@ DATABASE: employee-db
 DATABASE_PORT: 3307
 DATABASE_CONNECTION: Secur
 DATABASE_TIMEOUT: 30
+
+------------------------------
+API CONFIGURATION
+------------------------------
+
+API_VERSION: v2
+API_STATUS: Enabled
 
